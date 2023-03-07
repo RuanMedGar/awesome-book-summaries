@@ -1,8 +1,3 @@
-tipo:: resumo
-mídia:: livro
-status:: completo
-author:: Andrea Bonior
-
 # Seus pensamentos sobre seus pensamentos.
 
 Nós damos muita importância para nossos pesamentos, mas a grande maior parte deles é aleatória. Todos os nossos pensamentos podem passar, eles só ficam se dermos importância a eles.
