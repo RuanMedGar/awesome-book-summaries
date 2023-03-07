@@ -1,14 +1,9 @@
-title:: ATLS - Manual do curso de Alunos - 10 ed
-tipo:: resumo
-área::  medicina
-mídia:: livro
-status:: completo
+# ATLS - Manual do curso de Alunos - 10 ed
 
 - # Introdução
   collapsed:: true
 	- **Hora de ouro**: janela de oportunidade para intervenções positivas
 	- ## Epidemiologia
-	  collapsed:: true
 		- Trauma representa parte importante das mortes diárias.
 		- Distribuição trimodal do trauma
 		  Essa distribuição é usada como indicador de qualidade do atendimento ao trauma.
