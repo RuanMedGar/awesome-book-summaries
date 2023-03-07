@@ -7,7 +7,7 @@ Hello and welcome to the Awesome Book Summaries repository! This repository aims
 To contribute a book summary, create a new Markdown file entitled with the book's name and  author and add it to the summaries folder. Be sure to include the book title, author, a brief description, and of course, the summary. You can use this structure as a reference:
 
 ```
-File name: Book Title - Author
+File name: Book Title - Author.md
 ### Brief Description
 -- Summary here.
 ```
